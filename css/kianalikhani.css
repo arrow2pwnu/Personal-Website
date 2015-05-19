@@ -1,0 +1,29 @@
+* {
+	border-radius: 0 !important;
+}
+
+body {
+	height: auto;
+}
+
+footer {
+	background-color: #DDDDDD;
+}
+
+p {
+	margin: 0px;
+}
+
+#main-content {
+	color: black;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+#caret {
+	display: inline-block;
+}
+
+#username {
+	display: inline-block;
+}
